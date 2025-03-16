@@ -25,8 +25,8 @@ This project is a Streamlit application that allows users to upload a CSV file a
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Soumasish2005/conversational-data-analysis-bot.git
-    cd conversational-data-analysis-bot
+    git clone https://github.com/nehal21-hash/Conversational-Review-Analysis-Bot.git
+    cd Conversational-Review-Analysis-Bot
     ```
 
 2. Install the required packages:
@@ -75,3 +75,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Google Generative AI](https://cloud.google.com/generative-ai)
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/)
+
