@@ -1,4 +1,4 @@
-# Conversational-Review-Analysis-Bot 
+# Conversational Review Analysis-Bot 
 
 This project is a Streamlit application that allows users to upload a CSV file and ask questions about their data in natural language. The application uses Google Gemini API to generate SQL queries from user questions and executes them on a Snowflake database. The results are then visualized using Matplotlib and Seaborn.
 
